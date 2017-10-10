@@ -1036,7 +1036,7 @@ The integer codes are mapped to well-known attributes as follows.
 * code 47: ``swifterror``
 * code 48: ``norecurse``
 * code 49: ``inaccessiblememonly``
-* code 50: ``inaccessiblememonly_or_argmemonly``
+* code 50: ``inaccessiblemem_or_argmemonly``
 * code 51: ``allocsize(<EltSizeParam>[, <NumEltsParam>])``
 * code 52: ``writeonly``
 
